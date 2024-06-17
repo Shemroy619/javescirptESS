@@ -28,4 +28,4 @@ if (!isNaN(num1) && !isNaN(num2)) {
             const resultElement = document.getElementById('result');
             resultElement.textContent = `The result is: ${result}`;
         }
-    </script>
+</script>
